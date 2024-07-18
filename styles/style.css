@@ -7,12 +7,14 @@
 
 :root {
     --degrade: linear-gradient(60deg, #072041, #041833, #154580);
+    --azul-void: #01080E;
+    --azul-escuro: #041832;
+    --azul-medio: #144480;
+    --azul-neon: #2BDEFD;
+    --play-hover:  #2EBED7;
+    --cinza-cards: #C4C4C4;
+    --cinza:  #C4C4C4;
+    --branco: #fff;
 }
 
 
-body {
-    background: var(--degrade) no-repeat;
-    width: 100vw;
-    height: 100vh;
-
-}
